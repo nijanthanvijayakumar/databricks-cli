@@ -10,6 +10,7 @@
 ### Bundles
 * Add `ipykernel` to the `default` template to enable Databricks Connect notebooks in Cursor/VS Code ([#4164](https://github.com/databricks/cli/pull/4164))
 * Add interactive SQL warehouse picker to `default-sql` and `dbt-sql` bundle templates ([#4170](https://github.com/databricks/cli/pull/4170))
+* Add Genie Space resource support for direct deploy mode ([#3008](https://github.com/databricks/cli/issues/3008))
 
 ### Dependency updates
 
